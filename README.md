@@ -12,6 +12,8 @@
 
 [Reverse Words](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/reverseWords.swift)
 
+[Merge Sorted Arrays](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergeSortedArrays.swift)
+
 ### Hashing and Hash Tables
 [In-Flight Entertainment](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/inFlightEntertainment.swift)
 
