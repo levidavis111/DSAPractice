@@ -14,6 +14,8 @@
 
 [Merge Sorted Arrays](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergeSortedArrays.swift)
 
+[Cafe Order Checker](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/cafeOrderChecker.swift)
+
 ### Hashing and Hash Tables
 [In-Flight Entertainment](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/inFlightEntertainment.swift)
 
