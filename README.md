@@ -5,6 +5,9 @@
 [Nim Game](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/nimGame.swift)
 
 ## InterviewCake Practice
+### Strings and Arrays
+[Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
+
 ### Hashing and Hash Tables
 [In-Flight Entertainment](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/inFlightEntertainment.swift)
 
