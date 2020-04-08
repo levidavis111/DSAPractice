@@ -12,6 +12,6 @@
 ### Hashing and Hash Tables
 [In-Flight Entertainment](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/inFlightEntertainment.swift)
 
-[Permutation Palindrome](https://github.com/levidavis111/DSAPractice/new/master/interviewCake)
+[Permutation Palindrome](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/permutationPalindrome.swift)
 
 [Top Score](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/topScore.swift)
