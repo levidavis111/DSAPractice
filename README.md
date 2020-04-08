@@ -6,4 +6,6 @@
 
 ## InterviewCake Practice
 ### Hashing and Hash Tables
+[Permutation Palindrome](https://github.com/levidavis111/DSAPractice/new/master/interviewCake)
+
 [Top Score](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/topScore.swift)
