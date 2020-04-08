@@ -7,6 +7,7 @@
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
+[Reverse String In Place](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/reverseStringInPlace.swift)
 
 ### Hashing and Hash Tables
 [In-Flight Entertainment](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/inFlightEntertainment.swift)
