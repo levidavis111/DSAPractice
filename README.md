@@ -1,18 +1,24 @@
 # Completed DSA Problems
 ## Leetcode Practice
+### Random Questions Challenge
 [Hamming Distance](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/hammingDistance.swift)
 
 [Nim Game](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/nimGame.swift)
 
-[Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
+### 30-Day Challenge
 
 [Back String Compare](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/backStringCompare.swift)
+
+### Linked Lists
+[Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
 [Linked List Cycle](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/linkedListCycle.swift)
 
 [Linked List Cycle II](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/linkedListCycleII.swift)
 
 [Intersection of Two Linked Lists](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/intersectionOfTwoLinkedLists.swift)
+
+[Partition List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/partitionList.swift)
 
 ## InterviewCake Practice
 ### Strings and Arrays
