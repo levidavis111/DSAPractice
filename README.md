@@ -4,6 +4,8 @@
 
 [Nim Game](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/nimGame.swift)
 
+[Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
