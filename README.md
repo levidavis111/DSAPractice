@@ -12,6 +12,8 @@
 
 [Linked List Cycle II](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/linkedListCycleII.swift)
 
+[Intersection of Two Linked Lists](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/intersectionOfTwoLinkedLists.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
