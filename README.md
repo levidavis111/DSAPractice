@@ -20,6 +20,8 @@
 
 [Partition List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/partitionList.swift)
 
+[Reverse Linked List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reverseLinkedList.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
