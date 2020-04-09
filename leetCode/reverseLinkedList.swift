@@ -38,3 +38,16 @@ class Solution {
         return prev
     }
 }
+
+//Recursive:
+
+func reverseList(_ head: ListNode?) -> ListNode? {
+        guard head?.next != nil else {return head}
+        
+        let nextNode = head?.next
+        let newHead = reverseList(nextNode)
+        nextNode?.next = head
+        head?.next = nil
+    
+        return newHead
+    }
