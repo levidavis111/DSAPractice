@@ -43,3 +43,24 @@ class Solution {
         return slow
     }
 }
+
+/*
+func middleNode<T>(_ head: ListNode<T>?) -> ListNode<T>? {
+    let count = nodeCount(startingAt: head)
+    return getNode(at: count / 2, startingAt: head)
+    
+}
+
+func getNode<T>(at index: Int, startingAt head: ListNode<T>?) -> ListNode<T>? {
+    guard let head = head else {return nil}
+    guard index != 0 else {return  head}
+    
+    return getNode(at: index - 1, startingAt: head.next)
+}
+
+
+func nodeCount<T>(startingAt head: ListNode<T>?) -> Int {
+    guard let head = head else {return 0}
+    return 1 + nodeCount(startingAt: (head.next))
+}
+*/
