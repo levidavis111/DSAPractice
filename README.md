@@ -45,3 +45,5 @@
 [Stock Price](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/stockPrice.swift)
 
 [Highest Product of Three](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/highestProductOfThree.swift)
+
+[Product of All Other Numbers](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/productOfAllOtherNumbers.swift)
