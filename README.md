@@ -43,3 +43,5 @@
 
 ### Greedy Algorithms
 [Stock Price](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/stockPrice.swift)
+
+[Highest Product of Three](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/highestProductOfThree.swift)
