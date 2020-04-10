@@ -49,3 +49,5 @@
 [Product of All Other Numbers](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/productOfAllOtherNumbers.swift)
 
 [Cafe Order Checker](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/cafeOrderChecker.swift)
+
+[Shuffle in Plave](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/randomShuffle.swift)
