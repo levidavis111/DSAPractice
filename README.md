@@ -40,3 +40,6 @@
 [Permutation Palindrome](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/permutationPalindrome.swift)
 
 [Top Score](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/topScore.swift)
+
+### Greedy Algorithms
+[Stock Price](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/stockPrice.swift)
