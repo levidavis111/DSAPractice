@@ -19,6 +19,8 @@ Here's the catch: You can't use division in your solution!
 
 Gotchas
 Does your function work if the input array contains zeroes? Remember—no division.
+
+We only need to allocate one new array of size n.
 */
 
 func getProductsOfAllIntsExceptAtIndex(_ ints: [Int]) -> [Int]? {
