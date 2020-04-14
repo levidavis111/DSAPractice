@@ -30,13 +30,19 @@ return its minimum depth = 2.
  *     }
  * }
  */
-class Solution {
+cclass Solution {
     func minDepth(_ root: TreeNode?) -> Int {
         guard root != nil else {return 0}
-        guard root?.right != nil else {return minDepth(root?.right) + 1}
         
-        guard root?.left != nil else {return minDepth(root?.left) + 1}
+        let left = minDepth(root?.left)
+        let right = minDepth(root?.right)
         
-        return 1 + min(minDepth(root?.left), minDepth(root?.right))
+        if left == 0 {
+            return right + 1
+        } else if right == 0 {
+            return left + 1
+        } else {
+            return min(left, right) + 1
+        }
     }
 }
