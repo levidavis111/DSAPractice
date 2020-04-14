@@ -30,7 +30,7 @@ return its minimum depth = 2.
  *     }
  * }
  */
-cclass Solution {
+class Solution {
     func minDepth(_ root: TreeNode?) -> Int {
         guard root != nil else {return 0}
         
@@ -46,3 +46,35 @@ cclass Solution {
         }
     }
 }
+
+/*
+class Solution {
+    func minDepth(_ root: TreeNode?) -> Int {
+        guard root != nil else {return 0}
+        var depth = 0
+        var q = [TreeNode]()
+        q.append(root!)
+        
+        while !q.isEmpty {
+            let count = q.count
+            depth += 1
+            for _ in 0..<count {
+                let a = q.removeFirst()
+                
+                if a.left == nil && a.right == nil {
+                    return depth
+                }
+                
+                if let right = a.right {
+                    q.append(right)
+                }
+                
+                if let left = a.left {
+                    q.append(left)
+                }
+            }
+        }
+        return depth
+    }
+}
+*/
