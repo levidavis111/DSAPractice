@@ -25,6 +25,9 @@
 ### Hash Tables
 [Happy Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/happyNumber.swift)
 
+### Trees
+[Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
