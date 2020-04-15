@@ -32,6 +32,8 @@
 
 [Invert Binary Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/invertBinaryTree.swift)
 
+[Minimum Depth of Binary Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/minimumDepthOfBinaryTree.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
