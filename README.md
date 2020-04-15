@@ -63,4 +63,4 @@
 [Shuffle in Place](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/randomShuffle.swift)
 
 ## Random
-[One Edit Away](https://github.com/levidavis111/DSAPractice/blob/master/random/oneEditAway)
+[One Edit Away](https://github.com/levidavis111/DSAPractice/blob/master/random/oneEditAway.swift)
