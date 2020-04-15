@@ -5,6 +5,8 @@
 
 [Nim Game](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/nimGame.swift)
 
+[Check Record](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/checkRecord.swift)
+
 ### 30-Day Challenge
 
 [Back String Compare](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/backStringCompare.swift)
