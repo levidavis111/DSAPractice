@@ -47,6 +47,20 @@ Output: [1,null,2,null,3,null,4,null,5,null,6,null,7,null,8,null,9]
  * }
  */
 
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public var val: Int
+ *     public var left: TreeNode?
+ *     public var right: TreeNode?
+ *     public init(_ val: Int) {
+ *         self.val = val
+ *         self.left = nil
+ *         self.right = nil
+ *     }
+ * }
+ */
+
 struct Stack<T> {
     var arr = [T]()
     var isEmpty: Bool {
@@ -67,38 +81,49 @@ struct Stack<T> {
 }
 
 class Solution {
-    func increasingBST(_ root: TreeNode?) -> TreeNode? {
-        guard root != nil else {return nil}
+   func increasingBST(_ root: TreeNode?) -> TreeNode? {
+        guard let root = root else {return nil}
+        if root.right == nil && root.left == nil {
+            return root
+        }
         
         var stack = Stack<TreeNode>()
-        var currentNode: TreeNode? = nil
-        var head: TreeNode? = nil
-        var temp: TreeNode? = root
-        
-        while temp != nil {
-            stack.push(temp!)
-            temp = temp?.left
+        var newRoot: TreeNode? = nil
+        var current: TreeNode? = root
+  
+        while current != nil {
+            stack.push(current!)
+            current = current?.left
         }
-        
+            
+        current = nil
+       
         while !stack.isEmpty {
-            var temp2 = stack.pop()
-            if head == nil {
-                head = TreeNode(temp2!.val)
-                currentNode = head
+            guard var temp = stack.pop() else {return newRoot}
+            
+            if newRoot == nil {
+                newRoot = TreeNode(temp.val)
+                current = newRoot
             } else {
-                currentNode?.right = TreeNode(temp2!.val)
-                currentNode = currentNode?.right
+                current?.right = TreeNode(temp.val)
+                current = current?.right
             }
-            if temp2?.right != nil {
-                stack.push(temp2!.right!)
-                temp2 = temp2?.right
-                while temp2?.left != nil {
-                    stack.push(temp2!.left!)
-                    temp2 = temp2?.left
+            
+            if let right = temp.right {
+                stack.push(right)
+                temp = right
+                
+                while temp.left != nil {
+                    if let left = temp.left {
+                        stack.push(left)
+                        temp = left
+                    }
                 }
             }
-               
-            }
-            return head
+            
         }
+            
+       
+        return newRoot
+    }
 }
