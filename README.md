@@ -67,5 +67,8 @@
 
 [Shuffle in Place](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/randomShuffle.swift)
 
+### Binary Search
+[Find Rotation Point](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/findRotationPoint.swift)
+
 ## Random
 [One Edit Away](https://github.com/levidavis111/DSAPractice/blob/master/random/oneEditAway.swift)
