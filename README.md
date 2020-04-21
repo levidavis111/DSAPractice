@@ -74,3 +74,5 @@
 [One Edit Away](https://github.com/levidavis111/DSAPractice/blob/master/random/oneEditAway.swift)
 
 [Largest Prime Factor](https://github.com/levidavis111/DSAPractice/blob/master/random/largestPrimeFactor.swift)
+
+[Highest Product of Two](https://github.com/levidavis111/DSAPractice/blob/master/random/highestProdOfTwo.swift)
