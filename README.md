@@ -32,6 +32,7 @@
 [Happy Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/happyNumber.swift)
 
 [Two Sum](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/twoSum.swift)
+[K Weakest Rows](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/kWeakestRows.swift)
 
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
