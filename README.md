@@ -9,6 +9,8 @@
 
 [Height Checker](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/heightChecker.swift)
 
+[Long Pressed Name](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/longPressedName.swift)
+
 ### 30-Day Challenge
 
 [Back String Compare](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/backStringCompare.swift)
