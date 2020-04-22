@@ -30,6 +30,7 @@
 
 ### Hash Tables
 [Happy Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/happyNumber.swift)
+[Two Sum](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/twoSum.swift)
 
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
