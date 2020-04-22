@@ -7,6 +7,8 @@
 
 [Check Record](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/checkRecord.swift)
 
+[Height Checker](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/heightChecker.swift)
+
 ### 30-Day Challenge
 
 [Back String Compare](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/backStringCompare.swift)
