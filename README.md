@@ -51,6 +51,7 @@
 
 ### Random
 [Check Straight Line](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/checkStraightLine.swift)
+[Divisor Game](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/divisorGame.swift)
 
 ## InterviewCake Practice
 ### Strings and Arrays
