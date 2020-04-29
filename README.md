@@ -13,6 +13,8 @@
 
 [1-bit or 2-bit Character](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/isOneBitCharacter.swift)
 
+[Kth Largest Element In a Stream](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/kthLargestElementInStream.swift)
+
 ### 30-Day Challenge
 
 [Back String Compare](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/backStringCompare.swift)
