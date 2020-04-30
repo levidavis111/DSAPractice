@@ -27,3 +27,29 @@ class Solution {
         return output
     }
 }
+
+class Solution {
+    func countBits(_ num: Int) -> [Int] {
+        var output = [Int]()
+        
+        for number in 0...num {
+            let count = getBitCount(number)
+            output.append(count)
+        }
+        
+        return output
+    }
+    
+    func getBitCount(_ num: Int) -> Int {
+        var num = num
+        var count = 0
+        
+        while num != 0 {
+            if (num & 1) == 1 {
+                count += 1
+            }
+            num >>= 1
+        }
+        return count
+    }
+}
