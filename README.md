@@ -52,6 +52,9 @@
 ### Dynamic Programming and Memoization
 [Climbing Stairs](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/climbingStairs.swift)
 
+### Binary
+[Reverse Bits](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reverseBits.swift)
+
 ### Random
 [Check Straight Line](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/checkStraightLine.swift)
 
