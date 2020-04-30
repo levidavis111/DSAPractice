@@ -57,6 +57,8 @@
 
 [Sort Integers by Non-Zero Bit Count](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortIntegerByOneBits.swift)
 
+[Counting Bits](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/countingBits.swift)
+
 ### Random
 [Check Straight Line](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/checkStraightLine.swift)
 
