@@ -54,6 +54,7 @@
 
 ### Binary
 [Reverse Bits](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reverseBits.swift)
+
 [Sort Integers by Non-Zero Bit Count](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortIntegerByOneBits.swift)
 
 ### Random
