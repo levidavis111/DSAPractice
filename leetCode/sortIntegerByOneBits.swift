@@ -77,3 +77,10 @@ class Solution {
         return count
     }
 }
+
+class Solution {
+    func sortByBits(_ arr: [Int]) -> [Int] {
+        
+        return arr.sorted(by: {$0.nonzeroBitCount != $1.nonzeroBitCount ? $0.nonzeroBitCount < $1.nonzeroBitCount : $0 < $1})
+    }
+}
