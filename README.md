@@ -64,6 +64,8 @@
 
 [Divisor Game](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/divisorGame.swift)
 
+[Decompress Run-Length Encoded List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/decompressEncodedList.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
