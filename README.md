@@ -68,6 +68,8 @@
 
 [Create Target Array In Given Order](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/createTargetArray.swift)
 
+[Number of steps to Reduce to Zero](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reduceToZero.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
