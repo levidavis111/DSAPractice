@@ -66,6 +66,8 @@
 
 [Decompress Run-Length Encoded List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/decompressEncodedList.swift)
 
+[Create Target Array In Given Order](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/createTargetArray.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
