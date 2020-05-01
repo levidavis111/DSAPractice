@@ -72,6 +72,8 @@
 
 [Number of steps to Reduce to Zero](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reduceToZero.swift)
 
+[Cells with Odd Values in a Matrix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/matrixOddValues.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
