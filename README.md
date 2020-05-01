@@ -46,6 +46,8 @@
 
 [Minimum Depth of Binary Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/minimumDepthOfBinaryTree.swift)
 
+[Range Sum BST](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/rangeSum.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
