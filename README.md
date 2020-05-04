@@ -76,6 +76,8 @@
 
 [Kid with the Greatest Number of Candies](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/mostCandies.swift)
 
+[Maximum 69 Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maximum69Number.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
