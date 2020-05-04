@@ -74,6 +74,8 @@
 
 [Cells with Odd Values in a Matrix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/matrixOddValues.swift)
 
+[Kid with the Greatest Number of Candies](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/mostCandies.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
