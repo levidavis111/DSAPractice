@@ -61,6 +61,8 @@
 
 [Counting Bits](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/countingBits.swift)
 
+[Convert Binary Linked List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/convertBinaryLL.swift)
+
 ### Random
 [Check Straight Line](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/checkStraightLine.swift)
 
