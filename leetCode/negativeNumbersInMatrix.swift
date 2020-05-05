@@ -30,3 +30,21 @@ class Solution {
         return count
     }
 }
+// Faster:
+class Solution {
+    func countNegatives(_ grid: [[Int]]) -> Int {
+        guard grid.count > 0 else {return 0}
+        var count: Int = 0
+        
+        for row in grid {
+            for (index, number) in row.enumerated() {
+                if number < 0 {
+                    count += row.count - index
+                    break
+                }
+            }
+        }
+        
+        return count
+    }
+}
