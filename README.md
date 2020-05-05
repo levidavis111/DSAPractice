@@ -80,6 +80,8 @@
 
 [Maximum 69 Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maximum69Number.swift)
 
+[Replace Element with Greatest Element to the Right](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/replaceElementWithGreatestElementRight.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
