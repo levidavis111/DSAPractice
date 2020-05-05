@@ -82,6 +82,8 @@
 
 [Replace Element with Greatest Element to the Right](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/replaceElementWithGreatestElementRight.swift)
 
+[Count Negative Numbers in Matrix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/negativeNumbersInMatrix.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
