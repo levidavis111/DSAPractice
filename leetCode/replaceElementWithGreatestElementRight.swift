@@ -38,3 +38,19 @@ class Solution {
         return output
     }
 }
+//O(n) solution:
+class Solution {
+    func replaceElements(_ arr: [Int]) -> [Int] {
+        var output = arr
+        var biggestYet: Int = arr[arr.count - 1]
+        output[output.count - 1] = -1
+        for index in (0..<arr.count - 1).reversed() {
+            let number = output[index]
+            output[index] = biggestYet
+            
+            biggestYet = max(biggestYet, number)
+        }
+        
+        return output
+    }
+}
