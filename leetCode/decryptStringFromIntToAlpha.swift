@@ -58,3 +58,45 @@ class Solution {
         return output
     }
 }
+// 100% speed, 100% memmory approach:
+class Solution {
+    func freqAlphabets(_ s: String) -> String {
+        
+        guard s.count > 0 else {return ""}
+        var output: String = ""
+        var dict = [Int : String]()
+        let alpha = Array("abcdefghijklmnopqrstuvwxyz")
+        let arr = Array(s)
+        var index = arr.count - 1
+        
+        for key in 1...26 {
+            dict[key] = String(alpha[key - 1])
+        }
+        
+        while index >= 0 {
+            let char = arr[index]
+            
+            if char == "#" {
+                let a = arr[index - 2]
+                let b = arr[index - 1]
+                if let num = Int("\(a)\(b)") {
+                    if let decoded = dict[num] {
+                        output.insert(contentsOf: decoded, at: output.startIndex)
+                    }
+                }
+                
+                index -= 3
+                
+            } else {
+                if let num = Int("\(char)") {
+                    if let decoded = dict[num] {
+                        output.insert(contentsOf: decoded, at: output.startIndex)
+                        index -= 1
+                    }
+                }
+            }
+        }
+        
+        return output
+    }
+}
