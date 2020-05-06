@@ -39,6 +39,8 @@
 
 [K Weakest Rows](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/kWeakestRows.swift)
 
+[Unique Morse Code Words][https://github.com/levidavis111/DSAPractice/blob/master/leetCode/uniqueMorseCodeWords.swift]
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
