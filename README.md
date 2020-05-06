@@ -84,6 +84,8 @@
 
 [Count Negative Numbers in Matrix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/negativeNumbersInMatrix.swift)
 
+[Decrypt String From Integer to Alphabet Mapping](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/decryptStringFromIntToAlpha.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
