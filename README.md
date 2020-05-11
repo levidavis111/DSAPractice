@@ -32,6 +32,8 @@
 
 [Reverse Linked List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reverseLinkedList.swift)
 
+[Design LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/designLinkedList.swift)
+
 ### Hash Tables
 [Happy Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/happyNumber.swift)
 
