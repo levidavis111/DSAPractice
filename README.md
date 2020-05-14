@@ -90,6 +90,10 @@
 
 [Decrypt String From Integer to Alphabet Mapping](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/decryptStringFromIntToAlpha.swift)
 
+## HackerRank
+### Stacks
+[Balanced Brackets](https://github.com/levidavis111/DSAPractice/blob/master/hackerRank/balancedBrackets.swift)
+
 ## InterviewCake Practice
 ### Strings and Arrays
 [Merged Meeting Times](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/mergedMeetingTimes.swift)
