@@ -16,8 +16,10 @@
 [Kth Largest Element In a Stream](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/kthLargestElementInStream.swift)
 
 ### 30-Day Challenge
-
 [Back String Compare](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/backStringCompare.swift)
+
+### Strings
+[Longest Common Prefix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/longestCommonPrefix.swift)
 
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
