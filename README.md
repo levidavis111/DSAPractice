@@ -54,6 +54,8 @@
 
 [Range Sum BST](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/rangeSum.swift)
 
+[Path Sum](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/pathSum.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
