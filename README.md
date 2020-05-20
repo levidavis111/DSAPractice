@@ -61,6 +61,8 @@
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
+[Valid Parentheses](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/validParentheses.swift)
+
 ### Dynamic Programming and Memoization
 [Climbing Stairs](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/climbingStairs.swift)
 
