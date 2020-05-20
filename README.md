@@ -36,6 +36,8 @@
 
 [Design LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/designLinkedList.swift)
 
+[Merge Two Sorted Lists](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/mergeTwoSortedLists.swift)
+
 ### Hash Tables
 [Happy Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/happyNumber.swift)
 
