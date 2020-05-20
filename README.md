@@ -45,6 +45,8 @@
 
 [Unique Morse Code Words](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/uniqueMorseCodeWords.swift)
 
+[Roman to Integer](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/romanToInteger.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
