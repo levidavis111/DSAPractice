@@ -102,6 +102,8 @@
 
 [Remove Duplicates from Sorted Array](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/removeDuplicatesFromSortedArray.swift)
 
+[Remove Element](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/removeElement.swift)
+
 ### System Design
 [Design Twitter](https://github.com/levidavis111/DSAPractice/tree/master/leetCode)
 
