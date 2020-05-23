@@ -60,6 +60,8 @@
 
 [Path Sum](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/pathSum.swift)
 
+[Validate Binary Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/validateBST.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
