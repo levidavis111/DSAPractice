@@ -154,6 +154,8 @@
 [Implement a queue using two stacks](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/impelementQueueUsingTwoStacks.swift)
 
 ### Trees
+[Balanced Binary Tree](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/balancedBinaryTree.swift)
+
 [Find Second Largest Element in BST](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/secondLargestInBST.swift)
 
 ## Random
