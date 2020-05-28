@@ -108,6 +108,8 @@
 
 [Plus One](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/plusOne.swift)
 
+[Sqrt(X)](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sqrtX.swift)
+
 ### System Design
 [Design Twitter](https://github.com/levidavis111/DSAPractice/tree/master/leetCode)
 
