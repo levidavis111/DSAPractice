@@ -35,3 +35,26 @@ class Solution {
         return 0
     }
 }
+
+//Faster (binary search) solution:
+class Solution {
+    func mySqrt(_ x: Int) -> Int {
+        guard x > 1 else {return x}
+        
+        var left = 1
+        var right = x
+        
+        while left <= right {
+            let num = (left + right) / 2
+            
+            if num * num == x {
+                return num
+            } else if num * num > x {
+                right = num - 1
+            } else {
+                left = num + 1
+            }
+        }
+        return right
+    }
+}
