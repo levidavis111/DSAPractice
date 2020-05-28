@@ -156,6 +156,8 @@
 ### Trees
 [Balanced Binary Tree](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/balancedBinaryTree.swift)
 
+[Binary Search Tree Checker](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/binarySearchTreeChecker.swift)
+
 [Find Second Largest Element in BST](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/secondLargestInBST.swift)
 
 ## Random
