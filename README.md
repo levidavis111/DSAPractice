@@ -38,6 +38,8 @@
 
 [Merge Two Sorted Lists](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/mergeTwoSortedLists.swift)
 
+[Remove Duplicates From Sorted List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/removeDuplicateFromSortedList.swift)
+
 ### Hash Tables
 [Happy Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/happyNumber.swift)
 
