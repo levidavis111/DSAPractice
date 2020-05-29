@@ -110,6 +110,8 @@
 
 [Sqrt(X)](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sqrtX.swift)
 
+[Climb Stairs](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/climbStairs.swift)
+
 ### System Design
 [Design Twitter](https://github.com/levidavis111/DSAPractice/tree/master/leetCode)
 
