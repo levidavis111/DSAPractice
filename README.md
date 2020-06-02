@@ -40,6 +40,8 @@
 
 [Remove Duplicates From Sorted List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/removeDuplicateFromSortedList.swift)
 
+[Delete Node From Linked List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/deleteNodeFromLinkedList.swift)
+
 ### Hash Tables
 [Happy Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/happyNumber.swift)
 
