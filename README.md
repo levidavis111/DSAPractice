@@ -173,6 +173,9 @@
 
 [Bracket Validator](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/bracketValidator.swift)
 
+### Linked Lists
+[Delete Node](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/deleteNode.swift)
+
 ## Random
 [One Edit Away](https://github.com/levidavis111/DSAPractice/blob/master/random/oneEditAway.swift)
 
