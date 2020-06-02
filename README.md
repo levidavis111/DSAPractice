@@ -158,9 +158,6 @@
 ### Binary Search
 [Find Rotation Point](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/findRotationPoint.swift)
 
-### Queues
-[Implement a queue using two stacks](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/impelementQueueUsingTwoStacks.swift)
-
 ### Trees
 [Balanced Binary Tree](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/balancedBinaryTree.swift)
 
@@ -169,7 +166,12 @@
 [Find Second Largest Element in BST](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/secondLargestInBST.swift)
 
 ### Stacks and Queues
+
+[Implement a queue using two stacks](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/impelementQueueUsingTwoStacks.swift)
+
 [Find Closing Paren](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/getClosingParen.swift)
+
+[Bracket Validator](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/bracketValidator.swift)
 
 ## Random
 [One Edit Away](https://github.com/levidavis111/DSAPractice/blob/master/random/oneEditAway.swift)
