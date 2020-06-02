@@ -66,6 +66,8 @@
 
 [Validate Binary Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/validateBST.swift)
 
+[Same Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sameTree.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
