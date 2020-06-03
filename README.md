@@ -18,6 +18,8 @@
 ### 30-Day Challenge
 [Back String Compare](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/backStringCompare.swift)
 
+[Two City Scheduling](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/twoCityScheduling.swift)
+
 ### Strings
 [Longest Common Prefix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/longestCommonPrefix.swift)
 
