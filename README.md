@@ -23,6 +23,8 @@
 ### Strings
 [Longest Common Prefix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/longestCommonPrefix.swift)
 
+[Reverse String](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reverseString.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
