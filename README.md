@@ -74,6 +74,8 @@
 
 [Symetric Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/symetricTree.swift)
 
+[Maximum Depth of a Binary Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maxDepthBinaryTree.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
