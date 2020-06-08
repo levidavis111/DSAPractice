@@ -95,6 +95,9 @@
 
 [Convert Binary Linked List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/convertBinaryLL.swift)
 
+### Math
+[Power of Two](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/powerOfTwo.swift)
+
 ### Random
 [Check Straight Line](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/checkStraightLine.swift)
 
