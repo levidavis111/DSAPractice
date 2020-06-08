@@ -20,6 +20,8 @@
 
 [Two City Scheduling](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/twoCityScheduling.swift)
 
+[Queue Reconstruction by Height](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/queueReconstruction.swift)
+
 ### Strings
 [Longest Common Prefix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/longestCommonPrefix.swift)
 
