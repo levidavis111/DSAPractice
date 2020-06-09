@@ -27,6 +27,8 @@
 
 [Reverse String](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reverseString.swift)
 
+[Is Subsequence](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/isSubsequence.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
