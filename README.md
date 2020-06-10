@@ -108,6 +108,8 @@
 ### Matrix
 [Transpose Matrix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/transposeMatrix.swift)
 
+[Rotate Matrix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/rotateMatrix.swift)
+
 ### Random
 [Check Straight Line](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/checkStraightLine.swift)
 
