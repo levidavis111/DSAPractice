@@ -32,6 +32,8 @@
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
+[Best Time to Buy and Sell Stocks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/bestTimeToBuyAndSellStock.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
