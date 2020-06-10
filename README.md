@@ -29,6 +29,9 @@
 
 [Is Subsequence](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/isSubsequence.swift)
 
+### Arrays
+[Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
