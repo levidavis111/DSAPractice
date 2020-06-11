@@ -72,6 +72,8 @@
 
 [Single Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/singleNumber.swift)
 
+[Majority Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/majorityElement.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
