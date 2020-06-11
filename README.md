@@ -70,6 +70,8 @@
 
 [Roman to Integer](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/romanToInteger.swift)
 
+[Single Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/singleNumber.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
