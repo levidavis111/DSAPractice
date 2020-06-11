@@ -118,6 +118,8 @@
 ### Search
 [Search Insert Position](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/searchInsertPosition.swift)
 
+[Two Sum II - Input Array is Sorted](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/twoSum2.swift)
+
 ### Sort
 [Sort Colors](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortColors.swift)
 
