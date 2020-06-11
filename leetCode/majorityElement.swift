@@ -37,3 +37,26 @@ class Solution {
         return 0
     }
 }
+
+// OR
+class Solution {
+    func majorityElement(_ nums: [Int]) -> Int {
+        guard nums.count > 1 else {return nums[0]}
+        
+        let half = nums.count / 2
+        var frequency = [Int: Int]()
+        
+        for num in nums {
+            if let value = frequency[num] {
+                frequency[num] = value + 1
+                if value + 1 > half {
+                    return num
+                }
+            } else {
+                frequency[num] = 1
+            }
+        }
+        
+        return 0
+    }
+}
