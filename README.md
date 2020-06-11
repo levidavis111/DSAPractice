@@ -98,6 +98,8 @@
 
 [Valid Parentheses](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/validParentheses.swift)
 
+[Min Stack](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/minStack.swift)
+
 ### Dynamic Programming and Memoization
 [Climbing Stairs](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/climbingStairs.swift)
 
