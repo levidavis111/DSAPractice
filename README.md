@@ -74,6 +74,8 @@
 
 [Majority Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/majorityElement.swift)
 
+[Insert Delete GetRandom O(1)](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/insertDeleteGetRandomO1.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
