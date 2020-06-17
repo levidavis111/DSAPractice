@@ -40,3 +40,30 @@ class Solution {
     }
 }
 
+class Solution {
+    func isHappy(_ n: Int) -> Bool {
+        guard n > 1 else {return true}
+        var n = n
+        var seen = Set<Int>()
+        
+        while n != 1 {
+            guard !seen.contains(n) else {return false}
+            seen.insert(n)
+            n = getSquareOfDigits(n)
+        }
+        return true
+    }
+    
+    private func getSquareOfDigits(_ n: Int) -> Int {
+        var sum = 0
+        var n = n
+        
+        while n > 0 {
+            sum += (n % 10) * (n % 10)
+            n /= 10
+        }
+        
+        return sum
+    }
+}
+
