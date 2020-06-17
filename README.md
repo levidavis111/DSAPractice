@@ -132,6 +132,8 @@
 
 [Surrounded Regions](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/surroundedRegions.swift)
 
+[Number of Islands](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/numberOfIslands.swift)
+
 ### Sort
 [Sort Colors](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortColors.swift)
 
