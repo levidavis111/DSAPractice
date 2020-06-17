@@ -61,6 +61,8 @@
 
 [Delete Node From Linked List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/deleteNodeFromLinkedList.swift)
 
+[Odd Even Linked List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/oddEvenLinkedList.swift)
+
 ### Hash Tables
 [Happy Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/happyNumber.swift)
 
