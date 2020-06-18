@@ -134,6 +134,8 @@
 
 [Number of Islands](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/numberOfIslands.swift)
 
+[H-Index II](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/hIndexII.swift)
+
 ### Sort
 [Sort Colors](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortColors.swift)
 
