@@ -76,6 +76,8 @@
 
 [Single Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/singleNumber.swift)
 
+[Single Number II](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/singleNumberII.swift)
+
 [Majority Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/majorityElement.swift)
 
 [Insert Delete GetRandom O(1)](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/insertDeleteGetRandomO1.swift)
