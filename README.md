@@ -86,6 +86,8 @@
 
 [Contains Duplicate](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/containsDuplicate.swift)
 
+[Contains Duplicate II](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/containsDuplicateII.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
