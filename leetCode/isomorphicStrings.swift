@@ -45,3 +45,33 @@ class Solution {
         return true
     }
 }
+
+//Converting string to array seems to consistently work faster:
+
+class Solution {
+    func isIsomorphic(_ s: String, _ t: String) -> Bool {
+        guard s.count == t.count else {return false}
+        let sArr = Array(s)
+        let tArr = Array(t)
+        var dict = [Character:Character]()
+        
+        for index in 0..<sArr.count {
+            let sChar = sArr[index]
+            let tChar = tArr[index]
+            
+            if let value = dict[sChar] {
+                if value != tChar {
+                    return false
+                }
+            } else {
+                if dict.values.contains(tChar) {
+                    return false
+                } else {
+                    dict[sChar] = tChar
+                }
+            }
+        }
+        
+        return true
+    }
+}
