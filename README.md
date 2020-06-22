@@ -129,6 +129,8 @@
 ### Math
 [Power of Two](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/powerOfTwo.swift)
 
+[Count Primes](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/countPrimes.swift)
+
 ### Search
 [Search Insert Position](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/searchInsertPosition.swift)
 
