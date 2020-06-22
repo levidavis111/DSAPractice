@@ -84,6 +84,8 @@
 
 [Insert Delete GetRandom O(1)](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/insertDeleteGetRandomO1.swift)
 
+[Contains Duplicate](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/containsDuplicate.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
