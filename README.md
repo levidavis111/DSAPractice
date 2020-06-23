@@ -111,6 +111,8 @@
 
 [Search in a Binary Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/searchInABinarySearchTree.swift)
 
+[Count Complete Binary Nodes](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/countCompleteTreeNodes.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
