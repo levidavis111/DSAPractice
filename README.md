@@ -122,6 +122,8 @@
 
 [Min Stack](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/minStack.swift)
 
+[Implement a Stack Using Queues](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/stackUsingQueues.swift)
+
 ### Dynamic Programming and Memoization
 [Climbing Stairs](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/climbingStairs.swift)
 
