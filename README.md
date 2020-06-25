@@ -92,6 +92,8 @@
 
 [Valid Anagram](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/isValidAnagram.swift)
 
+[Find the Duplicate](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/findTheDuplicate.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
