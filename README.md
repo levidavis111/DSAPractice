@@ -145,6 +145,8 @@
 
 [Count Primes](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/countPrimes.swift)
 
+[Add Digits](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/addDigits.swift)
+
 ### Search
 [Search Insert Position](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/searchInsertPosition.swift)
 
