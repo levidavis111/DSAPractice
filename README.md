@@ -149,6 +149,8 @@
 
 [Add Digits](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/addDigits.swift)
 
+[Ugly Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/uglyNumber.swift)
+
 ### Search
 [Search Insert Position](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/searchInsertPosition.swift)
 
