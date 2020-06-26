@@ -119,6 +119,8 @@
 
 [Count Complete Binary Nodes](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/countCompleteTreeNodes.swift)
 
+[Sum Root to Leaf Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sumRootToLeaf.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
