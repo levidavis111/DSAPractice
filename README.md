@@ -151,6 +151,8 @@
 
 [Ugly Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/uglyNumber.swift)
 
+[Missing Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/missingNumber.swift)
+
 ### Search
 [Search Insert Position](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/searchInsertPosition.swift)
 
