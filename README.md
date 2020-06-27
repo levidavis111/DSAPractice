@@ -164,6 +164,8 @@
 
 [H-Index II](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/hIndexII.swift)
 
+[First Bad Version](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/firstBadVersion.swift)
+
 ### Sort
 [Sort Colors](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortColors.swift)
 
