@@ -42,6 +42,8 @@
 
 [House Robber](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/houseRobbers.swift)
 
+[Move Zeroes](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/moveZeroes.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
