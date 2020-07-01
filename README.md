@@ -144,6 +144,8 @@
 
 [Convert Binary Linked List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/convertBinaryLL.swift)
 
+[Arranging Coins](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/arrangingCoins.swift)
+
 ### Math
 [Power of Two](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/powerOfTwo.swift)
 
