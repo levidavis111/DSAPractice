@@ -157,6 +157,8 @@
 
 [Missing Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/missingNumber.swift)
 
+[Range Sum Query Immutable](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/rangeSumImmutable.swift)
+
 ### Search
 [Search Insert Position](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/searchInsertPosition.swift)
 
