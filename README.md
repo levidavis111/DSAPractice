@@ -149,6 +149,8 @@
 ### Recursion
 [Is Power of Three](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/isPowerOfThree.swift)
 
+[is Power of Four](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/isPowerOfFour.swift)
+
 ### Math
 [Power of Two](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/powerOfTwo.swift)
 
