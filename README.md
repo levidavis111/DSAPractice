@@ -146,6 +146,9 @@
 
 [Arranging Coins](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/arrangingCoins.swift)
 
+### Recursion
+[Is Power of Three](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/isPowerOfThree.swift)
+
 ### Math
 [Power of Two](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/powerOfTwo.swift)
 
