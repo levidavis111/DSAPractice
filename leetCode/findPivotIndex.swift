@@ -27,16 +27,16 @@ class Solution {
         guard nums.count != 0 else {return -1}
         guard nums.count != 2 else {return -1}
         
-        var left = nums.reduce(0, +)
-        var right = 0
+        var right = nums.reduce(0, +)
+        var left = 0
         
         for index in 0..<nums.count {
             let num = nums[index]
-            left -= num
+            right -= num
             if left == right {
                 return index
             }
-            right += num
+            left += num
         }
         
         return -1
