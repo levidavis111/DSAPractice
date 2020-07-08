@@ -45,3 +45,26 @@ class Solution {
         return [Int]()
     }
 }
+//Two-pointer approach
+class Solution {
+    func twoSum(_ numbers: [Int], _ target: Int) -> [Int] {
+        guard numbers.count > 1 else {return []}
+        
+        var leftPointer = 0
+        var rightPointer = numbers.count - 1
+        
+        while leftPointer <= rightPointer {
+            let sum = numbers[leftPointer] + numbers[rightPointer]
+            if sum == target {
+                return [leftPointer + 1, rightPointer + 1]
+            } else if sum < target {
+                leftPointer += 1
+            } else {
+                rightPointer -= 1
+            }
+        }
+        
+        
+        return []
+    }
+}
