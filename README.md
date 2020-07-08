@@ -153,6 +153,9 @@
 
 [is Power of Four](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/isPowerOfFour.swift)
 
+### Two Pointer
+[3Sum](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/threeSum.swift)
+
 ### Math
 [Power of Two](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/powerOfTwo.swift)
 
