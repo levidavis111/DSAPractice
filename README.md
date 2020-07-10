@@ -104,6 +104,8 @@
 
 [Ranson Note](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/ransomNote.swift)
 
+[First Unique Character](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/firstUniqueCharacter.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
