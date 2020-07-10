@@ -106,6 +106,8 @@
 
 [First Unique Character](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/firstUniqueCharacter.swift)
 
+[Find the Difference](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/findTheDifference.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
