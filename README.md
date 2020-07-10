@@ -190,6 +190,8 @@
 
 [First Bad Version](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/firstBadVersion.swift)
 
+[Valid Perfect Square](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/validPerfectSquare.swift)
+
 ### Sort
 [Sort Colors](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortColors.swift)
 
