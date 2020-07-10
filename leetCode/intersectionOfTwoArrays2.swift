@@ -41,3 +41,33 @@ class Solution {
         return output
     }
 }
+//Two Pointer:
+class Solution {
+    func intersect(_ nums1: [Int], _ nums2: [Int]) -> [Int] {
+        guard nums1.count > 0, nums2.count > 0 else {return []}
+        let sorted1 = nums1.sorted()
+        let sorted2 = nums2.sorted()
+        
+        var pointer1 = 0
+        var pointer2 = 0
+        
+        var output = [Int]()
+        
+        while pointer1 < sorted1.count && pointer2 < sorted2.count {
+            let num1 = sorted1[pointer1]
+            let num2 = sorted2[pointer2]
+            
+            if num1 == num2 {
+                output.append(num1)
+                pointer1 += 1; pointer2 += 1
+            } else if num1 > num2 {
+                pointer2 += 1
+            } else {
+                pointer1 += 1
+            }
+        }
+        
+        
+        return output
+    }
+}
