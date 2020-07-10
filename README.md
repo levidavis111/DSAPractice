@@ -192,6 +192,8 @@
 
 [Valid Perfect Square](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/validPerfectSquare.swift)
 
+[Guess Number Higher or Lower](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/guessNumber.swift)
+
 ### Sort
 [Sort Colors](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortColors.swift)
 
