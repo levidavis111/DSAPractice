@@ -80,3 +80,34 @@ class Solution {
         return output
     }
 }
+//Cleaner, and a little faster:
+class Solution {
+    func reverseVowels(_ s: String) -> String {
+        guard s.count > 1 else {return s}
+        let vowels: Set<Character> = ["a","e","i","o","u", "A", "E", "I", "O", "U"]
+        var sArr = Array(s)
+        var left = 0
+        var right = sArr.count - 1
+        
+        while left < right {
+            let lChar = sArr[left]
+            let rChar = sArr[right]
+            
+            if vowels.contains(lChar) && vowels.contains(rChar) {
+                sArr.swapAt(left, right)
+                left += 1
+                right -= 1
+            } else if vowels.contains(lChar) {
+                right -= 1
+            } else if vowels.contains(rChar) {
+                left += 1
+            } else {
+                left += 1
+                right -= 1
+            }
+        }
+       
+        
+        return sArr.map{String($0)}.joined()
+    }
+}
