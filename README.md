@@ -98,6 +98,8 @@
 
 [Find the Duplicate](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/findTheDuplicate.swift)
 
+[Intersection of Two Arrays][https://github.com/levidavis111/DSAPractice/blob/master/leetCode/intersectionOfTwoArray.swift]
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
