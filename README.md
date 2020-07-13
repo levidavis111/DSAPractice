@@ -100,7 +100,7 @@
 
 [Find the Duplicate](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/findTheDuplicate.swift)
 
-[Intersection of Two Arrays][https://github.com/levidavis111/DSAPractice/blob/master/leetCode/intersectionOfTwoArray.swift]
+[Intersection of Two Arrays](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/intersectionOfTwoArray.swift)
 
 [Intersectionof Two Arrays II](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/intersectionOfTwoArrays2.swift)
 
