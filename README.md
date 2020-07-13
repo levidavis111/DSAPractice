@@ -247,6 +247,8 @@
 
 [Climb Stairs](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/climbStairs.swift)
 
+[FizzBuzz](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/fizzBuzz.swift)
+
 ### System Design
 [Design Twitter](https://github.com/levidavis111/DSAPractice/tree/master/leetCode)
 
