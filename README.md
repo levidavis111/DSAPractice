@@ -249,6 +249,8 @@
 
 [FizzBuzz](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/fizzBuzz.swift)
 
+[Third Maximum Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/thirdMaximumNumber.swift)
+
 ### System Design
 [Design Twitter](https://github.com/levidavis111/DSAPractice/tree/master/leetCode)
 
