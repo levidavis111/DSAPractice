@@ -108,6 +108,8 @@
 
 [Find the Difference](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/findTheDifference.swift)
 
+[Longest Palindrome](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/longestPalindrome.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
