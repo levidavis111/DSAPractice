@@ -112,6 +112,8 @@
 
 [Longest Palindrome](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/longestPalindrome.swift)
 
+[Find all Numbers Disappeared in an Array](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/findDisappearedNumbers.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
