@@ -37,6 +37,8 @@
 
 [Number of Segments in a String](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/numberOfSegmentsInAString.swift)
 
+[Reverse Words in a String](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reverseWordsInAString.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
