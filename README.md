@@ -39,6 +39,8 @@
 
 [Reverse Words in a String](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reverseWordsInAString.swift)
 
+[Detect Capital](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/detectCapital.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
