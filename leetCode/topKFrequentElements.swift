@@ -18,6 +18,7 @@ Your algorithm's time complexity must be better than O(n log n), where n is the 
 It's guaranteed that the answer is unique, in other words the set of the top k frequent elements is unique.
 You can return the answer in any order.
 */
+//I think this is nlogn. Don't know how to do it faster
 class Solution {
     func topKFrequent(_ nums: [Int], _ k: Int) -> [Int] {
         guard nums.count > k else {return nums}
