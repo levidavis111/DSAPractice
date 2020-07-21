@@ -234,6 +234,8 @@
 
 [Pascal's Triangle](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/pascalsTriangle.swift)
 
+[Reshape Matrix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reshapeMatrix.swift)
+
 ### Random
 [Check Straight Line](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/checkStraightLine.swift)
 
