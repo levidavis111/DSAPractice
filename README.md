@@ -159,6 +159,8 @@
 
 [Maximum Septh of N-ary Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maximumDepthOfNaryTree.swift)
 
+[Subtree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/subtree.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
