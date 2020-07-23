@@ -49,3 +49,18 @@ class Solution {
         return output
     }
 }
+//Recurrsive
+class Solution {
+    func preorder(_ root: Node?) -> [Int] {
+    	guard let root = root else {return []}
+        var output = [Int]()
+        
+        output.append(root.val)
+        
+        for child in root.children {
+            output += preorder(child)
+        }
+        
+        return output
+    }
+}
