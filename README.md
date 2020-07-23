@@ -165,6 +165,8 @@
 
 [Binary Tree Zigzag Level Order Traversal](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/binaryTreeZigZag.swift)
 
+[N-ary Tree Preorder Traversal](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/naryTreePreorderTraversal.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
