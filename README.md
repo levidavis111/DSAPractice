@@ -167,6 +167,8 @@
 
 [N-ary Tree Preorder Traversal](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/naryTreePreorderTraversal.swift)
 
+[N-ary Tree Postorder Traversal](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/naryTreePostOrderTraversal.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
