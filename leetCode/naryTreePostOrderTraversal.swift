@@ -29,7 +29,7 @@ Output: [2,6,14,11,7,3,12,8,4,13,9,10,5,1]
  *     }
  * }
  */
-
+//Iterative
 class Solution {
     func postorder(_ root: Node?) -> [Int] {
         guard let root = root else {return []}
@@ -51,5 +51,18 @@ class Solution {
         }
         
         return output
+    }
+}
+//Recurrsive
+class Solution {
+    func postorder(_ root: Node?) -> [Int] {
+        guard let root = root else {return []}
+        var output = [Int]()
+        
+        for child in root.children {
+            output += postorder(child)
+        }
+        
+        return output + [root.val]
     }
 }
