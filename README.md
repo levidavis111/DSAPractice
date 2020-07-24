@@ -126,6 +126,8 @@
 
 [Distribute Candies](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/distrubuteCandies.swift)
 
+[Minimum Index Sum of Two Lists](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/minIndexSumTwoLists.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
