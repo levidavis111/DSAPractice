@@ -32,3 +32,22 @@ class Solution {
         return fib(N - 1) + fib(N - 2)
     }
 }
+// Much faster:
+class Solution {
+    func fib(_ N: Int) -> Int {
+        if N == 0 {return 0}
+        if N == 1 {return 1}
+        
+        var twoPrev = 0
+        var prev = 1
+        var current = 0
+        
+        for _ in 1..<N {
+            current = twoPrev + prev
+            twoPrev = prev
+            prev = current
+        }
+        
+        return current
+    }
+}
