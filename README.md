@@ -173,6 +173,8 @@
 
 [N-ary Tree Postorder Traversal](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/naryTreePostOrderTraversal.swift)
 
+[Merge Two Binary Trees](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/mergeTwoBinaryTrees.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
