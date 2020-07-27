@@ -54,6 +54,8 @@
 
 [Move Zeroes](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/moveZeroes.swift)
 
+[Can Plant Flower](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/canPlaceFlowers.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
