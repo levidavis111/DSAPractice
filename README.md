@@ -56,6 +56,8 @@
 
 [Can Plant Flower](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/canPlaceFlowers.swift)
 
+[Maximum Product of Three Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maxProdOfThree.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
