@@ -242,6 +242,8 @@
 
 [Guess Number Higher or Lower](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/guessNumber.swift)
 
+[Sum of Square Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sumOfSquareNumbers.swift)
+
 ### Sort
 [Sort Colors](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortColors.swift)
 
@@ -291,7 +293,7 @@
 
 [Third Maximum Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/thirdMaximumNumber.swift)
 
-[Max COnsecutie Ones](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maxConsecutiveOnes.swift)
+[Max Consecutie Ones](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maxConsecutiveOnes.swift)
 
 ### System Design
 [Design Twitter](https://github.com/levidavis111/DSAPractice/tree/master/leetCode)
