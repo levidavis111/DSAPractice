@@ -299,7 +299,7 @@
 
 [Third Maximum Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/thirdMaximumNumber.swift)
 
-[Max Consecutie Ones](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maxConsecutiveOnes.swift)
+[Max Consecutive Ones](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maxConsecutiveOnes.swift)
 
 ### System Design
 [Design Twitter](https://github.com/levidavis111/DSAPractice/tree/master/leetCode)
