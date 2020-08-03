@@ -132,6 +132,8 @@
 
 [Minimum Index Sum of Two Lists](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/minIndexSumTwoLists.swift)
 
+[Design Hash Set](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/designHashSet.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
