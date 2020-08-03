@@ -38,3 +38,34 @@ class Solution {
         return first.isUppercase ? (capitalCount == word.count || capitalCount == 1) : (capitalCount == 0)
     }
 }
+//A little short circuting to make it run faster:
+class Solution {
+    func detectCapitalUse(_ word: String) -> Bool {
+        guard word.count > 1 else {return true}
+        let arr = Array(word)
+        var capitalCount = 0
+        
+        if arr[0].isUppercase {
+            for index in 0..<arr.count {
+                if arr[index].isUppercase {
+                    capitalCount += 1
+                    if capitalCount < index + 1 {
+                        return false
+                    }
+                } else {
+                    if capitalCount > 1 {
+                        return false
+                    }
+                }
+            }
+        } else {
+            for index in 0..<arr.count {
+                if arr[index].isUppercase {
+                    return false
+                }
+            }
+        }
+        
+        return arr[0].isUppercase ? (capitalCount == 1 || capitalCount == arr.count) : capitalCount == 0
+    }
+}
