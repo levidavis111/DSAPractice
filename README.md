@@ -134,6 +134,8 @@
 
 [Design Hash Set](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/designHashSet.swift)
 
+[Set Mismatch](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/setMismatch.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
