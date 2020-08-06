@@ -38,3 +38,31 @@ lass Solution {
         return output
     }
 }
+//Using Set; seems to be a bit slower:
+class Solution {
+    func findErrorNums(_ nums: [Int]) -> [Int] {
+        var seen = Set<Int>()
+        var numsSet = Set(nums)
+        var dupe = 0
+        var missing = 0
+        
+        for num in nums {
+            if seen.contains(num) {
+                dupe = num
+                break
+            } else {
+                seen.insert(num)
+            }
+        }
+        
+        for num in 1...nums.count {
+            if !numsSet.contains(num) {
+                missing = num
+                break
+            }
+        }
+        
+        
+        return [dupe, missing]
+    }
+}
