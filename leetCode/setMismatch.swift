@@ -38,7 +38,7 @@ lass Solution {
         return output
     }
 }
-//Using Set; seems to be a bit slower:
+//Using Set
 class Solution {
     func findErrorNums(_ nums: [Int]) -> [Int] {
         var seen = Set<Int>()
