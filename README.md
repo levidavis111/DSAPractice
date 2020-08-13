@@ -136,6 +136,8 @@
 
 [Set Mismatch](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/setMismatch.swift)
 
+[Word Pattern](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/wordPattern.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
