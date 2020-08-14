@@ -189,6 +189,8 @@
 
 [Two Sum IV the Input is a BST](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/twoSumIV.swift)
 
+[Second Minimum Node in a Binary Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/secondSmallestInBST.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
