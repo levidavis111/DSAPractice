@@ -60,6 +60,8 @@
 
 [Maximum Product of Three Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maxProdOfThree.swift)
 
+[Distribute Candies to People](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/distibuteCandies.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
