@@ -45,6 +45,8 @@
 
 [Robot Return To Origin](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/robotReturnToOrigin.swift)
 
+[Baseball Game](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/baseballGame.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
