@@ -47,6 +47,8 @@
 
 [Baseball Game](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/baseballGame.swift)
 
+[Repeated String Match](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/repeatedStringMatch.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
