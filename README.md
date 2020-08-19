@@ -49,6 +49,8 @@
 
 [Repeated String Match](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/repeatedStringMatch.swift)
 
+[Goat Latin](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/goatLatin.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
