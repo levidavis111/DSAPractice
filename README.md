@@ -266,6 +266,8 @@
 
 [Sum of Square Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sumOfSquareNumbers.swift)
 
+[Binary Search](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/binarySearch.swift)
+
 ### Sort
 [Sort Colors](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortColors.swift)
 
