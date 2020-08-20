@@ -51,6 +51,8 @@
 
 [Goat Latin](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/goatLatin.swift)
 
+[Self Dividing Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/selfDividingNumbers.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
