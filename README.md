@@ -274,6 +274,8 @@
 
 [Binary Search](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/binarySearch.swift)
 
+[Find Smallest Letter Greater than Target](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/smallestLetter.swift)
+
 ### Sort
 [Sort Colors](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortColors.swift)
 
