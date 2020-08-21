@@ -72,6 +72,8 @@
 
 [Flood Fill](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/floodFill.swift)
 
+[Sort Array by Parity](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortArrayByParity.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
