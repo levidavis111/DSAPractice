@@ -76,6 +76,8 @@
 
 [Maximum Subarray](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maximumSubArray.swift)
 
+[Largest Number at Least Twice of Others](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/twiceBiggerThanSecondBiggest.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
