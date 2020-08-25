@@ -401,3 +401,5 @@
 [Largest Prime Factor](https://github.com/levidavis111/DSAPractice/blob/master/random/largestPrimeFactor.swift)
 
 [Highest Product of Two](https://github.com/levidavis111/DSAPractice/blob/master/random/highestProdOfTwo.swift)
+
+[Quick Sort](https://github.com/levidavis111/DSAPractice/blob/master/random/quickSort.swift)
