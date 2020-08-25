@@ -158,6 +158,8 @@
 
 [Word Pattern](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/wordPattern.swift)
 
+[Partition Labels](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/partitionLabels.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
