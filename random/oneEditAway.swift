@@ -34,3 +34,33 @@ func oneEditAway(_ str1: String, _ str2: String) -> Bool {
     
     return edits <= 1
 }
+
+
+func oneEditAway(_ str1: String, _ str2: String) -> Bool {
+    guard str1 != str2 else {return true}
+    
+    var (shorter, longer) = str1.count < str2.count ? (str1, str2) : (str2, str1)
+    
+    if shorter.count == longer.count {
+        for index in longer.indices {
+            if shorter[index] != longer[index] {
+                shorter.replaceSubrange(index...index, with: String(longer[index]))
+                return shorter == longer
+            }
+        }
+    } else {
+        for index in shorter.indices {
+            if shorter[index] != longer[index] {
+                shorter.insert(longer[index], at: index)
+                return shorter == longer
+            }
+        }
+    }
+    
+    return true
+}
+
+let str1 = "aaa"
+let str2 = "aa"
+
+oneEditAway(str1, str2)
