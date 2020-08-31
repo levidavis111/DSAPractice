@@ -160,6 +160,8 @@
 
 [Partition Labels](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/partitionLabels.swift)
 
+[Number of Lines to Write String](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/numberOfLines.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
