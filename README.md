@@ -78,6 +78,8 @@
 
 [Largest Number at Least Twice of Others](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/twiceBiggerThanSecondBiggest.swift)
 
+[Contains Duplicate III](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/containsDuplicateIII.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
