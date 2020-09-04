@@ -164,6 +164,8 @@
 
 [Number of Lines to Write String](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/numberOfLines.swift)
 
+[Valid Sudoku](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/validSudoku.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
