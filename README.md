@@ -199,7 +199,7 @@
 
 [Path Sum III](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/pathSumIII.swift)
 
-[Maximum Septh of N-ary Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maximumDepthOfNaryTree.swift)
+[Maximum Depth of N-ary Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maximumDepthOfNaryTree.swift)
 
 [Subtree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/subtree.swift)
 
