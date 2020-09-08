@@ -82,3 +82,64 @@ class Solution {
         return output
     }
 }
+//Faster using stack and binary search:
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public var val: Int
+ *     public var left: TreeNode?
+ *     public var right: TreeNode?
+ *     public init() { self.val = 0; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
+ *         self.val = val
+ *         self.left = left
+ *         self.right = right
+ *     }
+ * }
+ */
+class Solution {
+    func getAllElements(_ root1: TreeNode?, _ root2: TreeNode?) -> [Int] {
+        var output = [Int]()
+        var stack = [TreeNode]()
+        if let root1 = root1 {stack.append(root1)}
+        if let root2 = root2 {stack.append(root2)}
+        
+        while !stack.isEmpty {
+            let current = stack.removeLast()
+            
+            putInSortedPlace(current.val, &output)
+            
+            if let left = current.left {
+                stack.append(left)
+            }
+            
+            if let right = current.right {
+                stack.append(right)
+            }
+        }
+        
+        return output
+    }
+    
+    func putInSortedPlace(_ num: Int, _ arr: inout [Int]) {
+        guard arr.count > 0 else {arr.append(num); return}
+        var left = 0
+        var right = arr.count - 1
+        
+        while left <= right {
+            let middle = (left + right) / 2
+            let currentNum = arr[middle]
+            
+            if num == currentNum {
+                arr.insert(num, at: middle)
+                return
+            } else if num < currentNum {
+                right = middle - 1
+            } else {
+                left = middle + 1
+            }
+        }
+        arr.insert(num, at: left)
+    }
+}
