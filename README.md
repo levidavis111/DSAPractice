@@ -217,6 +217,8 @@
 
 [Second Minimum Node in a Binary Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/secondSmallestInBST.swift)
 
+[Sum of Root to Leaf Binary Numbers](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sumRootToLeafBinary.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
