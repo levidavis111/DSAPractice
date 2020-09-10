@@ -166,6 +166,8 @@
 
 [Valid Sudoku](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/validSudoku.swift)
 
+[Bulls and Cows](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/bullsAndCows.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
