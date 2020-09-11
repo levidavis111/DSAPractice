@@ -80,6 +80,8 @@
 
 [Contains Duplicate III](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/containsDuplicateIII.swift)
 
+[Maximum Product Subarray](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maxProductSubarray.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
