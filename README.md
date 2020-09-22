@@ -86,6 +86,8 @@
 
 [Maximum Product Subarray](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/maxProductSubarray.swift)
 
+[Sort Array by Parity II](https://github.com/levidavis111/DSAPractice/tree/master/leetCode)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
