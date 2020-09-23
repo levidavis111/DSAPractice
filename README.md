@@ -57,6 +57,8 @@
 
 [Reverse Only Letters](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/reverseOnlyLetters.swift)
 
+[Unique Email Addresses](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/uniqueEmailAddresses.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
