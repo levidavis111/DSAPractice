@@ -47,7 +47,6 @@ class Solution {
     func findPairs(_ nums: [Int], _ k: Int) -> Int {
         guard nums.count > 0 && k >= 0 else {return 0}
         let numSet = Set(nums)
-        var compSet = Set<Int>()
         var pairMap = [Int:Int]()
         var output = 0
         
