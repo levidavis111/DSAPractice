@@ -46,7 +46,7 @@ Constraints:
 class Solution {
     func findPairs(_ nums: [Int], _ k: Int) -> Int {
         guard nums.count > 0 && k >= 0 else {return 0}
-        let set = Set(nums)
+        let numSet = Set(nums)
         var compSet = Set<Int>()
         var pairMap = [Int:Int]()
         var output = 0
@@ -60,24 +60,19 @@ class Solution {
                 }
             }
             
-            for (key, value) in pairMap {
+            for (_, value) in pairMap {
                 if value > 1 {
                     output += 1
                 }
             }
         } else {
-            for num in nums {
-            let comp = num - k
-            compSet.insert(comp)
-        }
-        
-            for num in set {
-                if compSet.contains(num) {
+            for num in numSet {
+                let complement = num - k
+                if numSet.contains(complement) {
                     output += 1
                 }
             }
         }
-        
         return output
     }
 }
