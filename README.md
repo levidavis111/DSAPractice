@@ -180,6 +180,8 @@
 
 [Uncommon Words from Two String](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/uncommonWords.swift)
 
+[K-diff Pairs in an Array](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/kDiffPairs.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
