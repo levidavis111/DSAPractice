@@ -59,6 +59,8 @@
 
 [Unique Email Addresses](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/uniqueEmailAddresses.swift)
 
+[Buddy Strings](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/buddyStrings.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
