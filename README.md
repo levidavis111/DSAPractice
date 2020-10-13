@@ -237,6 +237,8 @@
 
 [All Elements in Two Binary Search Trees](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/allElementsTwoBST.swift)
 
+[Insert Into BST](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/insertIntoBST.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
