@@ -94,6 +94,8 @@
 
 [Rotate Array](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/rotateArray.swift)
 
+[Duplicate Zeros](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/duplicateZeros.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
