@@ -334,6 +334,9 @@
 
 [Island Perimeter](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/islandPerimeter.swift)
 
+### Greedy
+[Nth-Tribonacci Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/nthTribonacci.swift)
+
 ### Random
 [Check Straight Line](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/checkStraightLine.swift)
 
