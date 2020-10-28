@@ -96,6 +96,8 @@
 
 [Duplicate Zeros](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/duplicateZeros.swift)
 
+[Minimum Absolute Difference](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/minAbsoluteDiff.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
