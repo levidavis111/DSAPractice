@@ -75,3 +75,22 @@ class Solution {
         return output
     }
 }
+//Slightly faster:
+class Solution {
+    func uniqueOccurrences(_ arr: [Int]) -> Bool {
+        guard arr.count > 1 else {return true}
+        
+        var hash = [Int: Int]()//[integer: frequency]
+        // var seen = Set<Int>()
+        
+        for num in arr {
+            if let value = hash[num] {
+                hash[num] = value + 1
+            } else {
+                hash[num] = 1
+            }
+        }        
+        
+        return Set(hash.values).count == hash.count
+    }
+}
