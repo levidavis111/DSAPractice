@@ -63,6 +63,8 @@
 
 [Consecutive Characters](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/consecutiveCharacters.swift)
 
+[Split a String in Balanced Strings](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/splitStringIntoBalancedSubstrings.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
