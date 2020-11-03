@@ -61,6 +61,8 @@
 
 [Buddy Strings](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/buddyStrings.swift)
 
+[Consecutive Characters](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/consecutiveCharacters.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
