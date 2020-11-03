@@ -324,6 +324,7 @@
 
 ### Sort
 [Sort Colors](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortColors.swift)
+[Insertion Sort List](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/insertionSortList.swift)
 
 ### Matrix
 [Transpose Matrix](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/transposeMatrix.swift)
