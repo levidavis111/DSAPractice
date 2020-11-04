@@ -37,3 +37,23 @@ class Solution {
         return Int.min
     }
 }
+//Two-pointer approach:
+class Solution {
+    func findSpecialInteger(_ arr: [Int]) -> Int {
+        guard arr.count > 1 else {return arr[0]}
+        var occurances = 1
+        
+        for index in 1..<arr.count {
+            let current = arr[index]
+            let prev = arr[index - 1]
+            
+            if current == prev {
+                occurances += 1
+            } else {
+                occurances = 1
+            }
+            if occurances * 4 > arr.count {return current}
+        }
+        return Int.min
+    }
+}
