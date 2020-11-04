@@ -67,6 +67,8 @@
 
 [Find Winner on a Tic Tac Toe Game](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/findWinnerTicTacToe.swift)
 
+[Find Nums with Even Digits](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/numsWithEvenDigits.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
