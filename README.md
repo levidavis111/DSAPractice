@@ -198,6 +198,8 @@
 
 [Repeated DNA Sequences](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/repeatedDNASequences.swift)
 
+[Element Appearing More than 25% in sorted Array](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/elementInSortedArray.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
