@@ -106,6 +106,8 @@
 
 [Minimum Absolute Difference](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/minAbsoluteDiff.swift)
 
+[Find N Unique Integers Sum Up to Zero](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/findNumsSumToZero.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
