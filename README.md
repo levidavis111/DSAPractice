@@ -263,6 +263,8 @@
 
 [Insert Into BST](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/insertIntoBST.swift)
 
+[Univalued Binary Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/univaluedBinaryTree.swift)
+
 ### Queues and Stacks
 [Implement a Queue Using Two Stacks](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/implementQueueUsingTwoStacks.swift)
 
