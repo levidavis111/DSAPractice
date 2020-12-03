@@ -127,3 +127,40 @@ class Solution {
         return newRoot
     }
 }
+//Solution using sorted array:
+class Solution {
+    func increasingBST(_ root: TreeNode?) -> TreeNode? {
+        guard let root = root else {return nil}
+        guard root.left != nil || root.right != nil else {return root}
+        
+        var arr = [Int]()
+        var stack = [TreeNode]()
+        stack.append(root)
+        
+        while !stack.isEmpty {
+            let current = stack.removeLast()
+            arr.append(current.val)
+            
+            if let left = current.left {
+                stack.append(left)
+            }
+            
+            if let right = current.right {
+                stack.append(right)
+            }
+        }
+        arr = arr.sorted()
+        let newRoot = TreeNode(arr[0])
+        var current = newRoot
+        
+        for index in 1..<arr.count {
+            let val = arr[index]
+            let newNode = TreeNode(val)
+            current.right = newNode
+            if let right = current.right {
+                current = right
+            }
+        }
+        return newRoot
+    }
+}
