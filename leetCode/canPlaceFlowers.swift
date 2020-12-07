@@ -40,3 +40,34 @@ class Solution {
         return planted >= n
     }
 }
+//Tried on my own:
+class Solution {
+    func canPlaceFlowers(_ flowerbed: [Int], _ n: Int) -> Bool {
+        
+        var prevPlanted: Bool = false
+        let lastIndex = flowerbed.count - 1
+        var count = 0
+        
+        for index in 0..<lastIndex {
+            let current = flowerbed[index]
+            let next = flowerbed[index + 1]
+            
+            if current == 1 {
+                prevPlanted = true
+            } else {
+                if !prevPlanted && next == 0 {
+                    count += 1
+                    prevPlanted = true
+                } else {
+                    prevPlanted = false
+                }
+            }
+        }
+        
+        if !prevPlanted && flowerbed[lastIndex] == 0 {
+            count += 1
+        }
+        
+        return count >= n
+    }
+}
