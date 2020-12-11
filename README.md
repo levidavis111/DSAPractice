@@ -303,6 +303,8 @@
 
 [Fibonacci Number](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/fibonacci.swift)
 
+[Binary Search Tree Iterator](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/BSTIterator.swift)
+
 ### Two Pointer
 [3Sum](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/threeSum.swift)
 
