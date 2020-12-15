@@ -110,7 +110,7 @@
 
 [Squares of a Sorted Array](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/sortedSquaresOfAnArray.swift)
 
-[Remove Duplicates from Sorted Array II]()https://github.com/levidavis111/DSAPractice/blob/master/leetCode/removeDuplicatesSorted11.swift
+[Remove Duplicates from Sorted Array II](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/removeDuplicatesSorted11.swift)
 
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
