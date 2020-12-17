@@ -214,6 +214,8 @@
 
 [Pairs of Songs with Total Durations Divisible by 60](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/pairsOfSongs.swift)
 
+[Find Common Characters](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/findCommonCharacters.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
