@@ -112,6 +112,8 @@
 
 [Remove Duplicates from Sorted Array II](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/removeDuplicatesSorted11.swift)
 
+[Merge Sorted Array](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/mergeSortedArray.swift)
+
 ### Linked Lists
 [Middle of the LinkedList](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/middleOfTheLinkedList.swift)
 
