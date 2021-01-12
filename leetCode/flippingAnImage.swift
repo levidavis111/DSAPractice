@@ -61,3 +61,32 @@ class Solution {
         return output
     }
 }
+//A little cleaner with ternary and while statement:
+class Solution {
+    func flipAndInvertImage(_ A: [[Int]]) -> [[Int]] {
+        guard A.count > 0 else {return A}
+        
+        let rowCount = A.count
+        let colCount = A[0].count
+        var output = [[Int]]()
+        
+        for row in 0..<rowCount {
+            var arr = A[row]
+            var left = 0
+            var right = arr.count - 1
+            while left <= right {
+                if left == right {
+                    arr[left] = arr[left] == 0 ? 1 : 0
+                    break
+                }
+                arr[left] = arr[left] == 0 ? 1 : 0
+                arr[right] = arr[right] == 0 ? 1 : 0
+                arr.swapAt(left, right)
+                left += 1
+                right -= 1
+            }
+            output.append(arr)
+        }
+        return output
+    }
+}
