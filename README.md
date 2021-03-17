@@ -468,6 +468,8 @@
 
 [Bracket Validator](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/bracketValidator.swift)
 
+[Largest Element In Stack](https://github.com/levidavis111/DSAPractice/blob/master/interviewCake/largestElementInStack.swift)
+
 ### Linked Lists
 [Delete Node](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/deleteNode.swift)
 
