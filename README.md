@@ -69,6 +69,8 @@
 
 [Find Nums with Even Digits](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/numsWithEvenDigits.swift)
 
+[Determine if Two String Halves are Alike](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/determineStringHalvesAlike.swift)
+
 ### Arrays
 [Product of Array Except Self](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/productOfArrayExceptSelf.swift)
 
