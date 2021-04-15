@@ -220,6 +220,8 @@
 
 [Find Common Characters](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/findCommonCharacters.swift)
 
+[Relative Sort Array](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/relativeSortArray.swift)
+
 ### Trees
 [Increasing Order Search Tree](https://github.com/levidavis111/DSAPractice/blob/master/leetCode/increasingOrderSearchTree.swift)
 
